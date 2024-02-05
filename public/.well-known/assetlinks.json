@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gabblestudios.boredbutton",
+      "sha256_cert_fingerprints": [
+        "39:06:9F:70:76:19:68:27:D7:79:93:D0:53:B9:77:D7:66:21:54:44:31:B6:12:66:65:18:18:03:FB:38:E5:18"
+      ]
+    }
+  }
+]
